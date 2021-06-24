@@ -1,0 +1,2 @@
+# myFirstGithub
+studying for github
